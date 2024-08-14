@@ -1,0 +1,2 @@
+/home/oniiscythe/Documents/Development/GuessGame/bin/Release/net8.0/linux-x64/publish/GuessGame.pdb
+/home/oniiscythe/Documents/Development/GuessGame/bin/Release/net8.0/linux-x64/publish/GuessGame
